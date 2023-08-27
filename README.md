@@ -112,7 +112,7 @@ options:
 ### Features:
 
  - Multi platform (Supports most linux)
- - Easy to use
+ - Kolay to use
  - Possible error diagnoser
  - 77 Website templates
  - Concurrent 4 tunneling (Cloudflared, Loclx and LocalHostRun, Serveo)
